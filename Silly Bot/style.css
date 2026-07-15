@@ -1,0 +1,37 @@
+body{
+    background:#111;
+    color:white;
+    font-family:Arial;
+}
+
+.container{
+    width:500px;
+    margin:40px auto;
+}
+
+#chat{
+    height:400px;
+    overflow-y:auto;
+    border:2px solid white;
+    padding:15px;
+    margin-bottom:15px;
+}
+
+.user{
+    color:cyan;
+    margin:10px 0;
+}
+
+.bot{
+    color:lime;
+    margin:10px 0;
+}
+
+input{
+    width:75%;
+    padding:12px;
+}
+
+button{
+    padding:12px;
+}
